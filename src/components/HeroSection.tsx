@@ -26,9 +26,9 @@ const HeroSection = ({ onViewProjects }: HeroSectionProps) => {
 
       <div className="text-center z-10 max-w-4xl mx-auto px-6">
         {/* Main heading with gradient text */}
-        <h1 className="text-6xl md:text-8xl font-bold mb-6 animate-slide-up">
+        <h1 className="text-6xl md:text-8xl font-royal font-bold mb-6 animate-slide-up">
           <span className="bg-gradient-to-r from-primary via-primary-glow to-primary bg-clip-text text-transparent animate-glow">
-            Alex Johnson
+            Berkal
           </span>
         </h1>
 
